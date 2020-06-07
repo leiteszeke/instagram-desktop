@@ -1,0 +1,15 @@
+{
+  "name": "instagram-web",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^9.0.2"
+  },
+  "dependencies": {
+    "electron-reload": "^1.5.0"
+  }
+}
